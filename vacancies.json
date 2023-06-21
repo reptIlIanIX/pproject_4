@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Тестировщик (Junior)",
+        "salary": null,
+        "requirements": "Неполное высшее/высшее образование. Знание теории тестирования и SQL. Теория БД: запросы (связать 2 таблицы, использовать агрегированные функции, группировка сортировка...",
+        "URL": "https://hh.ru/vacancy/82238787"
+    },
+    {
+        "name": "Python developer",
+        "salary": null,
+        "requirements": "Коммерческий опыт разработки на <highlighttext>Python</highlighttext> на фреймворках Aiohttp/ Aioamqp – от 2 лет. Понимание базовых принципов работы API. Отличное понимание ООП. ",
+        "URL": "https://hh.ru/vacancy/80948466"
+    },
+    {
+        "name": "Junior QA тестировщик-стажер",
+        "salary": {
+            "salary_from": 17500,
+            "salary_to": 17500
+        },
+        "requirements": "SQL.",
+        "URL": "https://hh.ru/vacancy/82135605"
+    },
+    {
+        "name": "Back-end developer Python Junior / Бекенд-разработчик Python",
+        "salary": {
+            "salary_from": 50000,
+            "salary_to": null
+        },
+        "requirements": "С уверенными знаниями <highlighttext>Python</highlighttext> 3. С уверенными знаниями фреймворков: Django, Django REST Framework. Опыт работы с Selenium. Умением работать с...",
+        "URL": "https://hh.ru/vacancy/81236105"
+    },
+    {
+        "name": "DevOps/Системный администратор",
+        "salary": {
+            "salary_from": 1000,
+            "salary_to": null
+        },
+        "requirements": "Требуемые знания: Организация и принципы CI/CD. Linux, Windows. Основы <highlighttext>Python</highlighttext>. Gitlab.",
+        "URL": "https://hh.ru/vacancy/82225237"
+    },
+    {
+        "name": "Младший аналитик (IT)",
+        "salary": {
+            "salary_from": 100000,
+            "salary_to": 140000
+        },
+        "requirements": "Опыт работы в данной сфере необязателен. Перед трудоустройством проводится подготовка. Приветствуются базовые знания SQL, Java, <highlighttext>Python</highlighttext>, C#, JavaScript, PHP.",
+        "URL": "https://hh.ru/vacancy/82175449"
+    },
+    {
+        "name": "Junior Developer (Python) / Младший разработчик",
+        "salary": null,
+        "requirements": "Опыт программирования на <highlighttext>Python</highlighttext> от 1 года. Знание ООП. Опыт работы с Linux на уровне пользователя. Хорошую техническую базу: работа...",
+        "URL": "https://hh.ru/vacancy/82176984"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": {
+            "salary_from": 60000,
+            "salary_to": null
+        },
+        "requirements": "Комплекс Программных Средств \"Виста-Мед\". * Опыт коммерческой разработки от 1 года. * Владение <highlighttext>Python</highlighttext> 2/3. * Владение (My)SQL, конкретно: * * Иметь...",
+        "URL": "https://hh.ru/vacancy/82128820"
+    },
+    {
+        "name": "Стажер Web Программист в отдел разработки Интернет-Магазинов",
+        "salary": {
+            "salary_from": 30000,
+            "salary_to": null
+        },
+        "requirements": "можете описать пример любой вашей разработки, хотя бы в рамках учебной программы. - знаете основы баз данных. - знаете основы HTML, JS...",
+        "URL": "https://hh.ru/vacancy/82197901"
+    },
+    {
+        "name": "Разработчик Python (Junior)",
+        "salary": {
+            "salary_from": null,
+            "salary_to": 82500
+        },
+        "requirements": "Высшее образование (также рассматриваются студенты старших курсов). Знание <highlighttext>Python</highlighttext>, SQL (MS-SQL, PostgreSQL). Понимание веб-технологий. Опыт Web Scraping. ",
+        "URL": "https://hh.ru/vacancy/82167814"
+    },
+    {
+        "name": "Junior Python (стажер)",
+        "salary": {
+            "salary_from": 30000,
+            "salary_to": 30000
+        },
+        "requirements": "Выпускник или студент старших курсов высшего образования по специальностям - информатика, прикладная математика, экономика, бизнес-информатика или подобные. Знание <highlighttext>Python</highlighttext>. ",
+        "URL": "https://hh.ru/vacancy/82082298"
+    },
+    {
+        "name": "Инженер по тестированию ПО",
+        "salary": {
+            "salary_from": 80000,
+            "salary_to": null
+        },
+        "requirements": "Опыт технической поддержки или системного администрирования. Познания в Linux тестировании в теории или на практике будут не лишними. ",
+        "URL": "https://hh.ru/vacancy/82003774"
+    },
+    {
+        "name": "Разработчик (python developer)",
+        "salary": null,
+        "requirements": "Хорошее знание <highlighttext>Python</highlighttext> (Теория/Практика). Понимание технологии RPA. Знание SQL/Oracle. JavaScript.",
+        "URL": "https://hh.ru/vacancy/82157776"
+    },
+    {
+        "name": "Junior Python Developer",
+        "salary": {
+            "salary_from": 50000,
+            "salary_to": 80000
+        },
+        "requirements": "<highlighttext>Python</highlighttext>, sqlalchemy. Nginx, postgesql / mysql, redis. Linux / macos. Git. Rest. Умение разбираться в чужом коде.",
+        "URL": "https://hh.ru/vacancy/81667130"
+    },
+    {
+        "name": "Junior Python Developer",
+        "salary": {
+            "salary_from": 40000,
+            "salary_to": null
+        },
+        "requirements": "Знание <highlighttext>Python</highlighttext> 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки...",
+        "URL": "https://hh.ru/vacancy/81960961"
+    },
+    {
+        "name": "Backend разработчик",
+        "salary": null,
+        "requirements": "Уметь проектировать базы данных и писать запросы к ним — в MySQL или другой СУБД. Владеть инструментами сетевой безопасности. ",
+        "URL": "https://hh.ru/vacancy/82132518"
+    },
+    {
+        "name": "Junior QA Engineer",
+        "salary": {
+            "salary_from": 1000,
+            "salary_to": 1200
+        },
+        "requirements": "Опыт работы в тестировании ПО. Владение <highlighttext>Python</highlighttext>, SQL на базовом уровне. Знание фреймворков и опыт написания автотестов API, GUI. ",
+        "URL": "https://hh.ru/vacancy/82097143"
+    },
+    {
+        "name": "Frontend-разработчик (Angular)",
+        "salary": null,
+        "requirements": "Опыт работы с Angular 8+, JS, HTML5, CSS3, TypeScript. Опыт работы с Docker Webpack, git. ",
+        "URL": "https://hh.ru/vacancy/82204430"
+    },
+    {
+        "name": "Стажер в IT-компанию (с уклоном в python разработку)",
+        "salary": null,
+        "requirements": "Знаешь основы программирования на <highlighttext>python</highlighttext> (и изучал другие языки программирования). Ответственно относишься к работе. Умеешь работать с людьми. ",
+        "URL": "https://hh.ru/vacancy/81110673"
+    },
+    {
+        "name": "Тестировщик ПО (процессинг платежей)",
+        "salary": null,
+        "requirements": "Опыт разработки функционально – интеграционных сервисов на языках Java, <highlighttext>Python</highlighttext>. Хорошие знания в части микросервисной архитектуры. Опыт работы с такими сервисами...",
+        "URL": "https://hh.ru/vacancy/81606777"
+    }
+]
