@@ -1,158 +1,362 @@
 [
     {
+        "id": "83285184",
+        "name": "Web-программист - стажер",
+        "salary_from": null,
+        "salary_to": null,
+        "requirements": "Знать теорию тестирования, что такое тест планы, чек листы и протокол тестирования, свободно владеть ЯП <highlighttext>Python</highlighttext>, быть приспособленным к монотонной...",
+        "URL": "https://hh.ru/vacancy/83285184",
+        "Type": "HH"
+    },
+    {
+        "id": "83008507",
+        "name": "Django стажер + эникейщик",
+        "salary_from": null,
+        "salary_to": null,
+        "requirements": "Понимать Django, MVC. Уметь программировать на <highlighttext>Python</highlighttext>. Алгоритмический склад ума. Умение устанавливать Windows. Понимать работу сетей на базовом уровне.",
+        "URL": "https://hh.ru/vacancy/83008507",
+        "Type": "HH"
+    },
+    {
+        "id": "83064546",
+        "name": "Стажер-разработчик",
+        "salary_from": 40000,
+        "salary_to": null,
+        "requirements": "Знание SQL. Владение языками программирования. Знание Java, C#, <highlighttext>Python</highlighttext>, C++. Опыт работы с PostgreSQL / Postgres Pro, Oracle, My SQL, MS...",
+        "URL": "https://hh.ru/vacancy/83064546",
+        "Type": "HH"
+    },
+    {
+        "id": "83353355",
+        "name": "Python разработчик (Junior+)",
+        "salary_from": null,
+        "salary_to": 120000,
+        "requirements": "Опыт работы от 1 года на нашем стеке. Владение одним из фреймворков Django, Flask или с другими. Опыт работы с...",
+        "URL": "https://hh.ru/vacancy/83353355",
+        "Type": "HH"
+    },
+    {
+        "id": "83041941",
+        "name": "Python-разработчик / Junior Python Developer",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "requirements": "Требуемый опыт работы: опыт в программировании на <highlighttext>Python</highlighttext>. Ключевые навыки: <highlighttext>Python</highlighttext>, Linux, MySQL, Apache HTTP Server, SQL, Flask.",
+        "URL": "https://hh.ru/vacancy/83041941",
+        "Type": "HH"
+    },
+    {
+        "id": "82933897",
+        "name": "Junior Frontend разработчик (Стажер)",
+        "salary_from": 55000,
+        "salary_to": 65000,
+        "requirements": "Базовые навыки: HTML, CSS, JavaScript. Кроссбраузерная, адаптивная / гибкая / Pixel Perfect верстка. Опыт программирования: от 0 до 1 года. ",
+        "URL": "https://hh.ru/vacancy/82933897",
+        "Type": "HH"
+    },
+    {
+        "id": "83334027",
+        "name": "Data science",
+        "salary_from": 95000,
+        "salary_to": null,
+        "requirements": "Базовые знания в прикладной статистике и теории вероятностей, методах оптимизации, линейной алгебре, вычислительных методах. Уверенное знание <highlighttext>Python</highlighttext> или R. ",
+        "URL": "https://hh.ru/vacancy/83334027",
+        "Type": "HH"
+    },
+    {
+        "id": "83184854",
+        "name": "Python-разработчик (Junior, Junior+)",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "requirements": "MySQL/postgreSQL. -знание библиотек для парсинга данных.",
+        "URL": "https://hh.ru/vacancy/83184854",
+        "Type": "HH"
+    },
+    {
+        "id": "83027396",
+        "name": "Frontend Developer",
+        "salary_from": 80000,
+        "salary_to": 85000,
+        "requirements": "Хорошее понимание HTML 4\\5, CSS 3. Знание и применение JS, Json, пакетов Bootstrap. Опыт взаимодействия с Backend разработкой (PHP...",
+        "URL": "https://hh.ru/vacancy/83027396",
+        "Type": "HH"
+    },
+    {
+        "id": "83290363",
+        "name": "Аналитик отдела статистики (удаленно)",
+        "salary_from": null,
+        "salary_to": 90000,
+        "requirements": "Будет плюсом, если обладает навыками анализа данных в <highlighttext>Python</highlighttext> и SQL, умеет работать с множеством внутренних и внешних источников данных. ",
+        "URL": "https://hh.ru/vacancy/83290363",
+        "Type": "HH"
+    },
+    {
+        "id": "82238787",
         "name": "Тестировщик (Junior)",
-        "salary": null,
+        "salary_from": null,
+        "salary_to": null,
         "requirements": "Неполное высшее/высшее образование. Знание теории тестирования и SQL. Теория БД: запросы (связать 2 таблицы, использовать агрегированные функции, группировка сортировка...",
-        "URL": "https://hh.ru/vacancy/82238787"
+        "URL": "https://hh.ru/vacancy/82238787",
+        "Type": "HH"
     },
     {
+        "id": "82868871",
+        "name": "Разработчик python",
+        "salary_from": 2500,
+        "salary_to": null,
+        "requirements": "Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL (My / Lite), Selenium, Bs4, Qt5. Django/Flask, Умение...",
+        "URL": "https://hh.ru/vacancy/82868871",
+        "Type": "HH"
+    },
+    {
+        "id": "83352760",
+        "name": "Бэкенд разработчик питон",
+        "salary_from": 200000,
+        "salary_to": 500000,
+        "requirements": "Опыт работы с <highlighttext>Python</highlighttext> (django). Знание языка функций и формул. Навыки написания SQL-запросов. Готовность погрузиться в бизнес-процессы. ",
+        "URL": "https://hh.ru/vacancy/83352760",
+        "Type": "HH"
+    },
+    {
+        "id": "83344223",
+        "name": "Разработчик React, JS",
+        "salary_from": 60000,
+        "salary_to": 60000,
+        "requirements": "желания писать осмысленный код. — знания английского языка. — технического образования. Busy = [.",
+        "URL": "https://hh.ru/vacancy/83344223",
+        "Type": "HH"
+    },
+    {
+        "id": "82928430",
         "name": "Python developer",
-        "salary": null,
+        "salary_from": null,
+        "salary_to": null,
         "requirements": "Коммерческий опыт разработки на <highlighttext>Python</highlighttext> на фреймворках Aiohttp/ Aioamqp – от 2 лет. Понимание базовых принципов работы API. Отличное понимание ООП. ",
-        "URL": "https://hh.ru/vacancy/80948466"
+        "URL": "https://hh.ru/vacancy/82928430",
+        "Type": "HH"
     },
     {
-        "name": "Junior QA тестировщик-стажер",
-        "salary": {
-            "salary_from": 17500,
-            "salary_to": 17500
-        },
-        "requirements": "SQL.",
-        "URL": "https://hh.ru/vacancy/82135605"
+        "id": "83301229",
+        "name": "Стажер в отдел R&D (Python)",
+        "salary_from": 30000,
+        "salary_to": 60000,
+        "requirements": "Средний уровень знаний <highlighttext>Python</highlighttext>. - Понимание работы HTTP запросов. - Интерес к разработке на Typescript + React. - Хорошее знание английского. - ",
+        "URL": "https://hh.ru/vacancy/83301229",
+        "Type": "HH"
     },
     {
+        "id": "83337158",
+        "name": "CTO / Chief Technology Officer",
+        "salary_from": 10000,
+        "salary_to": 15000,
+        "requirements": "JIRA, Confluence. What would like to see:  5+ years experience as a CTO or in a similar senior technology...",
+        "URL": "https://hh.ru/vacancy/83337158",
+        "Type": "HH"
+    },
+    {
+        "id": "82684647",
         "name": "Back-end developer Python Junior / Бекенд-разработчик Python",
-        "salary": {
-            "salary_from": 50000,
-            "salary_to": null
-        },
+        "salary_from": 50000,
+        "salary_to": null,
         "requirements": "С уверенными знаниями <highlighttext>Python</highlighttext> 3. С уверенными знаниями фреймворков: Django, Django REST Framework. Опыт работы с Selenium. Умением работать с...",
-        "URL": "https://hh.ru/vacancy/81236105"
+        "URL": "https://hh.ru/vacancy/82684647",
+        "Type": "HH"
     },
     {
-        "name": "DevOps/Системный администратор",
-        "salary": {
-            "salary_from": 1000,
-            "salary_to": null
-        },
-        "requirements": "Требуемые знания: Организация и принципы CI/CD. Linux, Windows. Основы <highlighttext>Python</highlighttext>. Gitlab.",
-        "URL": "https://hh.ru/vacancy/82225237"
+        "id": "83198580",
+        "name": "Тестировщик-ученик (нагрузочное тестирование, Москва)",
+        "salary_from": null,
+        "salary_to": null,
+        "requirements": "Знание любых языков программирования (приоритет Java, С/С++). Знакомство с БД, понимание SQL запросов. Наличие личного ПК (ОС Windows) с...",
+        "URL": "https://hh.ru/vacancy/83198580",
+        "Type": "HH"
     },
     {
-        "name": "Младший аналитик (IT)",
-        "salary": {
-            "salary_from": 100000,
-            "salary_to": 140000
-        },
-        "requirements": "Опыт работы в данной сфере необязателен. Перед трудоустройством проводится подготовка. Приветствуются базовые знания SQL, Java, <highlighttext>Python</highlighttext>, C#, JavaScript, PHP.",
-        "URL": "https://hh.ru/vacancy/82175449"
+        "id": "82667089",
+        "name": "Разработчик Python (junior)",
+        "salary_from": null,
+        "salary_to": null,
+        "requirements": "Высшее или неполное высшее техническое образование. Опыт разработки на <highlighttext>Python</highlighttext> от года. Опыт работы с Linux. Алгоритмическая подготовка. ",
+        "URL": "https://hh.ru/vacancy/82667089",
+        "Type": "HH"
     },
     {
-        "name": "Junior Developer (Python) / Младший разработчик",
-        "salary": null,
-        "requirements": "Опыт программирования на <highlighttext>Python</highlighttext> от 1 года. Знание ООП. Опыт работы с Linux на уровне пользователя. Хорошую техническую базу: работа...",
-        "URL": "https://hh.ru/vacancy/82176984"
+        "id": 45402547,
+        "name": "Специалист службы поддержки (Яндекс.Поиск)",
+        "salary_from": 15000,
+        "salary_to": 39000,
+        "requirements": null,
+        "URL": "https://engels.superjob.ru/vakansii/specialist-sluzhby-podderzhki-45402547.html",
+        "Type": "SJ"
     },
     {
-        "name": "Junior Python разработчик",
-        "salary": {
-            "salary_from": 60000,
-            "salary_to": null
-        },
-        "requirements": "Комплекс Программных Средств \"Виста-Мед\". * Опыт коммерческой разработки от 1 года. * Владение <highlighttext>Python</highlighttext> 2/3. * Владение (My)SQL, конкретно: * * Иметь...",
-        "URL": "https://hh.ru/vacancy/82128820"
+        "id": 46781769,
+        "name": "Аналитик данных (Управление Сквозные бизнес-компоненты)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/analitik-dannyh-46781769.html",
+        "Type": "SJ"
     },
     {
-        "name": "Стажер Web Программист в отдел разработки Интернет-Магазинов",
-        "salary": {
-            "salary_from": 30000,
-            "salary_to": null
-        },
-        "requirements": "можете описать пример любой вашей разработки, хотя бы в рамках учебной программы. - знаете основы баз данных. - знаете основы HTML, JS...",
-        "URL": "https://hh.ru/vacancy/82197901"
+        "id": 41239513,
+        "name": "Старший научный сотрудник",
+        "salary_from": 0,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/starshij-nauchnyj-sotrudnik-41239513.html",
+        "Type": "SJ"
     },
     {
-        "name": "Разработчик Python (Junior)",
-        "salary": {
-            "salary_from": null,
-            "salary_to": 82500
-        },
-        "requirements": "Высшее образование (также рассматриваются студенты старших курсов). Знание <highlighttext>Python</highlighttext>, SQL (MS-SQL, PostgreSQL). Понимание веб-технологий. Опыт Web Scraping. ",
-        "URL": "https://hh.ru/vacancy/82167814"
+        "id": 45733204,
+        "name": "Аналитик",
+        "salary_from": 150000,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://dolgoprudniy.superjob.ru/vakansii/analitik-45733204.html",
+        "Type": "SJ"
     },
     {
-        "name": "Junior Python (стажер)",
-        "salary": {
-            "salary_from": 30000,
-            "salary_to": 30000
-        },
-        "requirements": "Выпускник или студент старших курсов высшего образования по специальностям - информатика, прикладная математика, экономика, бизнес-информатика или подобные. Знание <highlighttext>Python</highlighttext>. ",
-        "URL": "https://hh.ru/vacancy/82082298"
+        "id": 44342838,
+        "name": "Data Scientist (computer vision, machine learning)",
+        "salary_from": 55000,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://rnd.superjob.ru/vakansii/data-scientist-44342838.html",
+        "Type": "SJ"
     },
     {
-        "name": "Инженер по тестированию ПО",
-        "salary": {
-            "salary_from": 80000,
-            "salary_to": null
-        },
-        "requirements": "Опыт технической поддержки или системного администрирования. Познания в Linux тестировании в теории или на практике будут не лишними. ",
-        "URL": "https://hh.ru/vacancy/82003774"
+        "id": 46185192,
+        "name": "Data Scientist",
+        "salary_from": 0,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/data-scientist-46185192.html",
+        "Type": "SJ"
     },
     {
-        "name": "Разработчик (python developer)",
-        "salary": null,
-        "requirements": "Хорошее знание <highlighttext>Python</highlighttext> (Теория/Практика). Понимание технологии RPA. Знание SQL/Oracle. JavaScript.",
-        "URL": "https://hh.ru/vacancy/82157776"
+        "id": 46587944,
+        "name": "Техник информационно-компьютерного отдела",
+        "salary_from": 35000,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://spb.superjob.ru/vakansii/tehnik-informacionno-kompyuternogo-otdela-46587944.html",
+        "Type": "SJ"
     },
     {
-        "name": "Junior Python Developer",
-        "salary": {
-            "salary_from": 50000,
-            "salary_to": 80000
-        },
-        "requirements": "<highlighttext>Python</highlighttext>, sqlalchemy. Nginx, postgesql / mysql, redis. Linux / macos. Git. Rest. Умение разбираться в чужом коде.",
-        "URL": "https://hh.ru/vacancy/81667130"
+        "id": 46640575,
+        "name": "Python-разработчик (Django)",
+        "salary_from": 180000,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/python-razrabotchik-46640575.html",
+        "Type": "SJ"
     },
     {
-        "name": "Junior Python Developer",
-        "salary": {
-            "salary_from": 40000,
-            "salary_to": null
-        },
-        "requirements": "Знание <highlighttext>Python</highlighttext> 3. Опыт работы с ORM (Django ORM, Peewee). Навыки работы с БД (PostgreSQL, Mongo). Будет плюсом: Навыки разработки...",
-        "URL": "https://hh.ru/vacancy/81960961"
+        "id": 46647557,
+        "name": "Учитель информатики",
+        "salary_from": 0,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://dolgoprudniy.superjob.ru/vakansii/uchitel-informatiki-46647557.html",
+        "Type": "SJ"
     },
     {
-        "name": "Backend разработчик",
-        "salary": null,
-        "requirements": "Уметь проектировать базы данных и писать запросы к ним — в MySQL или другой СУБД. Владеть инструментами сетевой безопасности. ",
-        "URL": "https://hh.ru/vacancy/82132518"
+        "id": 46652493,
+        "name": "Системный администратор (IT-специалист)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/sistemnyj-administrator-46652493.html",
+        "Type": "SJ"
     },
     {
-        "name": "Junior QA Engineer",
-        "salary": {
-            "salary_from": 1000,
-            "salary_to": 1200
-        },
-        "requirements": "Опыт работы в тестировании ПО. Владение <highlighttext>Python</highlighttext>, SQL на базовом уровне. Знание фреймворков и опыт написания автотестов API, GUI. ",
-        "URL": "https://hh.ru/vacancy/82097143"
+        "id": 46663422,
+        "name": "Старший программист-разработчик (Python/Django) / Senior back-end developer",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/starshij-programmist-razrabotchik-46663422.html",
+        "Type": "SJ"
     },
     {
-        "name": "Frontend-разработчик (Angular)",
-        "salary": null,
-        "requirements": "Опыт работы с Angular 8+, JS, HTML5, CSS3, TypeScript. Опыт работы с Docker Webpack, git. ",
-        "URL": "https://hh.ru/vacancy/82204430"
+        "id": 46795750,
+        "name": "Программист Бэкенд AI",
+        "salary_from": 80000,
+        "salary_to": 160000,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/programmist-bekend-ai-46795750.html",
+        "Type": "SJ"
     },
     {
-        "name": "Стажер в IT-компанию (с уклоном в python разработку)",
-        "salary": null,
-        "requirements": "Знаешь основы программирования на <highlighttext>python</highlighttext> (и изучал другие языки программирования). Ответственно относишься к работе. Умеешь работать с людьми. ",
-        "URL": "https://hh.ru/vacancy/81110673"
+        "id": 46869051,
+        "name": "Стажер-преподаватель в школу программирования",
+        "salary_from": 20000,
+        "salary_to": 50000,
+        "requirements": null,
+        "URL": "https://noyabrsk.superjob.ru/vakansii/stazher-prepodavatel-v-shkolu-programmirovaniya-46869051.html",
+        "Type": "SJ"
     },
     {
-        "name": "Тестировщик ПО (процессинг платежей)",
-        "salary": null,
-        "requirements": "Опыт разработки функционально – интеграционных сервисов на языках Java, <highlighttext>Python</highlighttext>. Хорошие знания в части микросервисной архитектуры. Опыт работы с такими сервисами...",
-        "URL": "https://hh.ru/vacancy/81606777"
+        "id": 46872889,
+        "name": "Аналитик данных / Начинающий аналитик данных",
+        "salary_from": 0,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/analitik-dannyh-46872889.html",
+        "Type": "SJ"
+    },
+    {
+        "id": 34424249,
+        "name": "DevOps Engineer",
+        "salary_from": 0,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/devops-engineer-34424249.html",
+        "Type": "SJ"
+    },
+    {
+        "id": 38140998,
+        "name": "Методист по программированию на Python (в центр цифрового образования)",
+        "salary_from": 30000,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://spb.superjob.ru/vakansii/metodist-po-programmirovaniyu-na-python-38140998.html",
+        "Type": "SJ"
+    },
+    {
+        "id": 43137935,
+        "name": "Системный администратор, IT-специалист",
+        "salary_from": 0,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/sistemnyj-administrator-43137935.html",
+        "Type": "SJ"
+    },
+    {
+        "id": 44453116,
+        "name": "Преподаватель по спецдисциплине (Сетевое и системное администрирование 2)",
+        "salary_from": 85000,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://www.superjob.ru/vakansii/prepodavatel-po-specdiscipline-44453116.html",
+        "Type": "SJ"
+    },
+    {
+        "id": 46790086,
+        "name": "Учитель информатики",
+        "salary_from": 0,
+        "salary_to": 0,
+        "requirements": null,
+        "URL": "https://spb.superjob.ru/vakansii/uchitel-informatiki-46790086.html",
+        "Type": "SJ"
+    },
+    {
+        "id": 46816401,
+        "name": "Программист Web, php, Python",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "requirements": null,
+        "URL": "https://samara.superjob.ru/vakansii/programmist-web-46816401.html",
+        "Type": "SJ"
     }
 ]
