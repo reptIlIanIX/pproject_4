@@ -10,6 +10,7 @@ class SJ(ABC):
         pass
 
 
+
 class SuperJobAPI:
     """исходные данные запроса собирает в формат json"""
 
