@@ -1,7 +1,15 @@
 import requests
+from abc import ABC, abstractmethod
 
 
-class HeadHunterAPI:
+class HH(ABC):
+    @abstractmethod
+    def get_vacancies(self, v):
+        pass
+
+
+
+class HeadHunterAPI(HH):
     vacancies = []
 
     def get_vacancies(self, vacancy):
