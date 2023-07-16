@@ -1,4 +1,14 @@
+import os
+from abc import ABC, abstractmethod
+
 import requests
+
+
+class SJ(ABC):
+    @abstractmethod
+    def get_vacancies(self):
+        pass
+
 
 
 class SuperJobAPI:
@@ -6,6 +16,7 @@ class SuperJobAPI:
 
     url = "https://api.superjob.ru/2.0/vacancies/"
     vacancies = []
+    api_key: str = os.getenv('X-Api-App-Id')
 
     def __init__(self, keyword):
         self.headers = {
