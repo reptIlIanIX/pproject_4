@@ -27,21 +27,21 @@
         "Type": "HH"
     },
     {
-        "id": "83353355",
-        "name": "Python разработчик (Junior+)",
-        "salary_from": null,
-        "salary_to": 120000,
-        "requirements": "Опыт работы от 1 года на нашем стеке. Владение одним из фреймворков Django, Flask или с другими. Опыт работы с...",
-        "URL": "https://hh.ru/vacancy/83353355",
-        "Type": "HH"
-    },
-    {
         "id": "83041941",
         "name": "Python-разработчик / Junior Python Developer",
         "salary_from": 100000,
         "salary_to": 150000,
         "requirements": "Требуемый опыт работы: опыт в программировании на <highlighttext>Python</highlighttext>. Ключевые навыки: <highlighttext>Python</highlighttext>, Linux, MySQL, Apache HTTP Server, SQL, Flask.",
         "URL": "https://hh.ru/vacancy/83041941",
+        "Type": "HH"
+    },
+    {
+        "id": "83353355",
+        "name": "Python разработчик (Junior+)",
+        "salary_from": null,
+        "salary_to": 120000,
+        "requirements": "Опыт работы от 1 года на нашем стеке. Владение одним из фреймворков Django, Flask или с другими. Опыт работы с...",
+        "URL": "https://hh.ru/vacancy/83353355",
         "Type": "HH"
     },
     {
@@ -81,15 +81,6 @@
         "Type": "HH"
     },
     {
-        "id": "83290363",
-        "name": "Аналитик отдела статистики (удаленно)",
-        "salary_from": null,
-        "salary_to": 90000,
-        "requirements": "Будет плюсом, если обладает навыками анализа данных в <highlighttext>Python</highlighttext> и SQL, умеет работать с множеством внутренних и внешних источников данных. ",
-        "URL": "https://hh.ru/vacancy/83290363",
-        "Type": "HH"
-    },
-    {
         "id": "82238787",
         "name": "Тестировщик (Junior)",
         "salary_from": null,
@@ -108,12 +99,12 @@
         "Type": "HH"
     },
     {
-        "id": "83352760",
-        "name": "Бэкенд разработчик питон",
-        "salary_from": 200000,
-        "salary_to": 500000,
-        "requirements": "Опыт работы с <highlighttext>Python</highlighttext> (django). Знание языка функций и формул. Навыки написания SQL-запросов. Готовность погрузиться в бизнес-процессы. ",
-        "URL": "https://hh.ru/vacancy/83352760",
+        "id": "83290363",
+        "name": "Аналитик отдела статистики (удаленно)",
+        "salary_from": null,
+        "salary_to": 90000,
+        "requirements": "Будет плюсом, если обладает навыками анализа данных в <highlighttext>Python</highlighttext> и SQL, умеет работать с множеством внутренних и внешних источников данных. ",
+        "URL": "https://hh.ru/vacancy/83290363",
         "Type": "HH"
     },
     {
@@ -123,6 +114,15 @@
         "salary_to": 60000,
         "requirements": "желания писать осмысленный код. — знания английского языка. — технического образования. Busy = [.",
         "URL": "https://hh.ru/vacancy/83344223",
+        "Type": "HH"
+    },
+    {
+        "id": "83352760",
+        "name": "Бэкенд разработчик питон",
+        "salary_from": 200000,
+        "salary_to": 500000,
+        "requirements": "Опыт работы с <highlighttext>Python</highlighttext> (django). Знание языка функций и формул. Навыки написания SQL-запросов. Готовность погрузиться в бизнес-процессы. ",
+        "URL": "https://hh.ru/vacancy/83352760",
         "Type": "HH"
     },
     {
